@@ -6,7 +6,7 @@ API ini digunakan untuk type akun starter,basic dan pro
 
 Download package dengan composer
 ```
-composer require aresbgt/rajaongkir
+composer require gotheblag/rajaongkir
 ```
 atau
 ```

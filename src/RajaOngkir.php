@@ -1,6 +1,6 @@
 <?php
 
-namespace aresbgt\rajaongkir;
+namespace gotheblag\rajaongkir;
 
 use aresbgt\rajaongkir\app\Cost_luar;
 use aresbgt\rajaongkir\app\Dikirim_dari;

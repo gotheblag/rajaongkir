@@ -1,6 +1,6 @@
 <?php
 
-namespace aresbgt\rajaongkir\app;
+namespace gotheblag\rajaongkir\app;
 
 class Cost_luar extends Api {
 

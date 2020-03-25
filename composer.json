@@ -1,6 +1,6 @@
 {
-    "name": "aresbgt/rajaongkir",
-    "description": "Raja Ongkir API Laravel 7",
+    "name": "gotheblag/rajaongkir",
+    "description": "Raja Ongkir API Laravel 5",
     "keywords": [
         "rajaongkir", "application programming interface", "laravel"
     ],
@@ -8,8 +8,8 @@
     "type": "package",
     "authors": [
         {
-            "name": "Raja Ongkir",
-            "email": "aresbgt@gmail.com"
+            "name": "gotheblag",
+            "email": "gotheblag@gg.com"
         }
     ],
     "autoload": {
@@ -18,7 +18,7 @@
     	}
     },
     "require": {
-        "php": "^7.2"
+    	"illuminate/support": "~5"
     }
-
+	
 }

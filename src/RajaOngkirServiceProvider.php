@@ -1,6 +1,6 @@
 <?php
 
-namespace aresbgt\rajaongkir;
+namespace gotheblag\rajaongkir;
 
 use Illuminate\Support\Facades\App;
 use Illuminate\Support\ServiceProvider;

@@ -1,0 +1,24 @@
+{
+    "name": "aresbgt/rajaongkir",
+    "description": "Raja Ongkir API Laravel 7",
+    "keywords": [
+        "rajaongkir", "application programming interface", "laravel"
+    ],
+    "license": "AR",
+    "type": "package",
+    "authors": [
+        {
+            "name": "Raja Ongkir",
+            "email": "aresbgt@gmail.com"
+        }
+    ],
+    "autoload": {
+    	"psr-4": {
+    		"aresbgt\\rajaongkir\\": "src/"
+    	}
+    },
+    "require": {
+    	"illuminate/support": "^5"
+    }
+
+}

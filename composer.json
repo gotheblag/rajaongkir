@@ -14,7 +14,7 @@
     ],
     "autoload": {
     	"psr-4": {
-    		"aresbgt\\rajaongkir\\": "src/"
+    		"gotheblag\\rajaongkir\\": "src/"
     	}
     },
     "require": {

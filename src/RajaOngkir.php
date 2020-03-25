@@ -2,13 +2,13 @@
 
 namespace gotheblag\rajaongkir;
 
-use aresbgt\rajaongkir\app\Cost_luar;
-use aresbgt\rajaongkir\app\Dikirim_dari;
-use aresbgt\rajaongkir\app\International;
-use aresbgt\rajaongkir\app\Kecamatan;
-use aresbgt\rajaongkir\app\Provinsi;
-use aresbgt\rajaongkir\app\Kota;
-use aresbgt\rajaongkir\app\Cost;
+use gotheblag\rajaongkir\app\Cost_luar;
+use gotheblag\rajaongkir\app\Dikirim_dari;
+use gotheblag\rajaongkir\app\International;
+use gotheblag\rajaongkir\app\Kecamatan;
+use gotheblag\rajaongkir\app\Provinsi;
+use gotheblag\rajaongkir\app\Kota;
+use gotheblag\rajaongkir\app\Cost;
 
 class RajaOngkir {
 	public function Provinsi(){

@@ -12,7 +12,7 @@ atau
 ```
 {
 	"require": {
-		"aresbgt/rajaongkir" : "dev-master"
+		"gotheblag/rajaongkir" : "dev-master"
 	}
 }
 ```
@@ -22,7 +22,7 @@ Tambahkan service provider ke config/app.php
 'providers' => [
 	....
 
-	aresbgt\rajaongkir\RajaOngkirServiceProvider::class,
+	gotheblag\rajaongkir\RajaOngkirServiceProvider::class,
 ]
 ```
 
@@ -31,7 +31,7 @@ Tambahkan juga aliasnya ke config/app.php
 'aliases' => [
 	....
 
-	'RajaOngkir' => aresbgt\rajaongkir\RajaOngkirFacade::class,
+	'RajaOngkir' => gotheblag\rajaongkir\RajaOngkirFacade::class,
 ]
 ```
 
